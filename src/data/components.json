@@ -1,0 +1,13 @@
+[
+  {
+    "id": "database",
+    "name": "Database",
+    "icon": "🗄️",
+    "defaultConfig": {
+      "type": "SQL",
+      "readCapacity": 1000,
+      "writeCapacity": 500
+    },
+    "simulationOutputs": ["latency", "throughput"]
+  }
+]
